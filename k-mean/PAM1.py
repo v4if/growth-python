@@ -5,7 +5,7 @@ import numpy as np
 import copy
 
 '''
-k-mean中心点聚类算法数据挖掘，将数据进行聚类分析，实验数据为data.txt
+k-mean中心点聚类算法数据挖掘，将数据进行聚类分析，实验数据为gaussian_data.txt
 k-mediods
 '''
 debug_flag = False
