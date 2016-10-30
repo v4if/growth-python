@@ -53,6 +53,27 @@ K = 100, iterator = 10, coord_K = 0.1
 
 ![growth-python](https://github.com/v4if/growth-python/raw/master/k-mean/testout/2016-10-25-134935_C100-10.png)
 
+PAM.py
+
+k-mediods 中心点聚类算法，实验数据为data.txt
+
+![growth-python](https://github.com/v4if/growth-python/raw/master/k-mean/testout/2016-10-30-174215.png)
+
+PAM1.py
+
+k-mediods 中心点聚类算法，实验数据为gaussion_data.txt。
+
+测试数据为三维同心球数据，并且半径tho服从均匀分布U[0, 50]，加入方差50的高斯噪声
+
+噪声三维同心球数据生成
+
+![growth-python](https://github.com/v4if/growth-python/raw/master/k-mean/testout/2016-10-30-174940.png)
+
+聚类测试
+
+![growth-python](https://github.com/v4if/growth-python/raw/master/k-mean/testout/2016-10-30-174136.png)
+
+
 > md5-explode
 
 md5在线爆破解密
@@ -61,9 +82,11 @@ md5在线爆破解密
 > showcode
 
 统计项目根目录下代码行数
+
 ![growth-python](https://github.com/v4if/growth-python/raw/master/showcode/2016-10-23-144952.png)
 
 > zip-explode
 
 多线程本地字典爆破zip密码
+
 ![growth-python](https://github.com/v4if/growth-python/raw/master/zip-explode/2016-10-23-150234.png)

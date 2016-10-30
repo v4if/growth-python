@@ -8,7 +8,6 @@ k-mean聚类算法图像分割，将图像分割并着色，实验数据为favor
 TODO:
     请确定已经安装了python-opencv
     sudo apt-get install python-opencv
-
 '''
 
 # 聚类cluster K
