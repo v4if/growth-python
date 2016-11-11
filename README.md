@@ -19,11 +19,11 @@ TODO:
 
 arg_eps = 0.02, arg_minPts = 3 实验数据为`data/spiral.mat`
 
-![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/testout/2016-11-11-133639.png)
+![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/dbscan/testout/2016-11-11-133639.png)
 
 arg_eps = 0.02, arg_minPts = 3 实验数据为`data/moon.mat`
 
-![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/testout/2016-11-11-133451.png)
+![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/dbscan/testout/2016-11-11-133451.png)
 
 > k-mean
 
