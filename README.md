@@ -7,6 +7,24 @@
 可以加括号，任意数量的加减乘除运算解析器
 ![growth-python](https://github.com/v4if/growth-python/raw/master/calc-interpreter/2016-10-23-143524.png)
 
+> dbscan
+
+DBSCAN（Density-Based Spatial Clustering of Applications with Noise）基于密度的聚类算法。
+
+核心思想是从某个核心点出发，不断向密度可达的区域扩张，从而得到一个包含核心点和边界点的最大化区域，区域中任意两点密度相连。
+
+TODO:
+
+	修改实验数据的同时，需要修改`mat_contents['']`内容，并调整arg_eps和arg_minPts参数
+
+arg_eps = 0.02, arg_minPts = 3 实验数据为`data/spiral.mat`
+
+![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/testout/2016-11-11-133639.png)
+
+arg_eps = 0.02, arg_minPts = 3 实验数据为`data/moon.mat`
+
+![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/testout/2016-11-11-133451.png)
+
 > k-mean
 
 k-mean聚类算法的数据挖掘与图像分割
