@@ -29,6 +29,9 @@ arg_eps = 0.02, arg_minPts = 3 实验数据为`data/moon.mat`
 
 数据挖掘决策树
 熵的解释：体系混乱程度的体现，至少需要多少位编码才能表示该信息
+TODO:
+	
+	递归确定best_index创建决策树，因此需要使用find_to_split剔除该列
 
 > k-mean
 
