@@ -25,6 +25,11 @@ arg_eps = 0.02, arg_minPts = 3 实验数据为`data/moon.mat`
 
 ![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/dbscan/testout/2016-11-11-133451.png)
 
+> decision-tree
+
+数据挖掘决策树
+熵的解释：体系混乱程度的体现，至少需要多少位编码才能表示该信息
+
 > k-mean
 
 k-mean聚类算法的数据挖掘与图像分割
