@@ -1,13 +1,14 @@
-### growth-python
+# growth-python ![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat-square)
+
 增长中的python程序库
 
-### List
-> calc-interpreter
+## calc-interpreter
 
 可以加括号，任意数量的加减乘除运算解析器
+
 ![growth-python](https://github.com/v4if/growth-python/raw/master/calc-interpreter/2016-10-23-143524.png)
 
-> dbscan
+## dbscan
 
 DBSCAN（Density-Based Spatial Clustering of Applications with Noise）基于密度的聚类算法。
 
@@ -25,7 +26,7 @@ arg_eps = 0.02, arg_minPts = 3 实验数据为`data/moon.mat`
 
 ![growth-python](https://raw.githubusercontent.com/v4if/growth-python/master/dbscan/testout/2016-11-11-133451.png)
 
-> decision-tree
+## decision-tree
 
 数据挖掘决策树
 熵的解释：体系混乱程度的体现，至少需要多少位编码才能表示该信息
@@ -33,7 +34,7 @@ TODO:
 	
 	递归确定best_index创建决策树，因此需要使用find_to_split剔除该列
 
-> k-mean
+## k-mean
 
 k-mean聚类算法的数据挖掘与图像分割
 
@@ -100,18 +101,18 @@ k-mediods 中心点聚类算法，实验数据为gaussion_data.txt。
 ![growth-python](https://github.com/v4if/growth-python/raw/master/k-mean/testout/2016-10-30-174136.png)
 
 
-> md5-explode
+## md5-explode
 
 md5在线爆破解密
 代码用的在线网站数据库检查修复中，而且添加了验证码，原来的程序已经跑不出来密码了。。。
 
-> showcode
+## showcode
 
 统计项目根目录下代码行数
 
 ![growth-python](https://github.com/v4if/growth-python/raw/master/showcode/2016-10-23-144952.png)
 
-> zip-explode
+## zip-explode
 
 多线程本地字典爆破zip密码
 
